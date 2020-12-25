@@ -1,0 +1,11 @@
+Text that appears outside of the block tags
+will not display in the credits scene
+
+<block:-1,-1,10,10,offbot,center,Island>
+
+\c[2]Terima Kasih Telah Bermain
+Kamu telah berhasil menyelamatkan Planet Zou
+dan keadaan telah menjadi lebih baik.
+
+</block>
+</block>
