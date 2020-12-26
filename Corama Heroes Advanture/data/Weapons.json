@@ -1,6 +1,9 @@
 [
 null,
-{"id":1,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Sword","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":2},
-{"id":2,"animationId":29,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Crossbow","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":8},
-{"id":3,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Cane","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":6}
+{"id":1,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Sword","note":"","params":[0,0,10,0,10,0,0,0],"price":500,"wtypeId":2},
+{"id":2,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Crossbow","note":"","params":[0,0,10,0,0,0,10,0],"price":500,"wtypeId":8},
+{"id":3,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Cane","note":"","params":[0,0,10,0,10,0,0,0],"price":500,"wtypeId":6},
+{"id":4,"animationId":23,"description":"Pedang suci yang pernah dipakai oleh pahlawan yang telah gugur","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Ex-Durandal","note":"","params":[0,0,100,0,100,0,0,0],"price":9999,"wtypeId":2},
+{"id":5,"animationId":29,"description":"Kemana arah angin, anak panah akan menembusnya","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":43,"dataId":5,"value":1}],"iconIndex":102,"name":"Wind Guider","note":"","params":[0,0,100,0,100,0,10,0],"price":9999,"wtypeId":8},
+{"id":6,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":43,"dataId":11,"value":1}],"iconIndex":101,"name":"Dead Wood Staff","note":"","params":[0,100,100,0,100,0,0,0],"price":9999,"wtypeId":6}
 ]
